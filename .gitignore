@@ -5,3 +5,4 @@
 /classes/
 .clover
 src/main/webapp/upload/
+.DS_Store
